@@ -3,7 +3,7 @@ Version:	58877
 Release:	2
 Summary:	Use folio numbers to replace page numbers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/foliono
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/foliono
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/foliono.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/foliono.doc.r%{version}.tar.xz
